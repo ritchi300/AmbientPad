@@ -112,7 +112,7 @@ Ensure you have the following libraries installed in the Arduino IDE:
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ## Author
-Developed by **Your Name** - [GitHub Profile](https://github.com/yourusername)
+Developed by **Your Name** - [GitHub Profile](https://github.com/ritchi300)
 
 ## Contributions
 Pull requests and contributions are welcome! If you find bugs or have feature requests, please open an issue.
